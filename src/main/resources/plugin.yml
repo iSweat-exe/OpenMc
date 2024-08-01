@@ -2,8 +2,3 @@ name: TestPlugin
 version: 1.0
 api-version: 1.20
 main: fr.isweatmc.openmc.Main
-commands:
-  broadcast:
-    description: Une commande qui envoie le message a tout le serveur
-    aliases:
-      - bc
