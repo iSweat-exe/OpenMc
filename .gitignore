@@ -43,6 +43,7 @@ bin/
 
 ### gradle ###
 gradle.properties
+.gradle.properties
 
 ### server ###
 server/
